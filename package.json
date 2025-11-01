@@ -1,0 +1,26 @@
+{
+  "name": "core-reactjs",
+  "version": "1.0.0",
+  "description": "Namaste Reactjs",
+  "keywords": [
+    "recatjs"
+  ],
+  "homepage": "https://github.com/venkatraj-web/namaste-reactjs#readme",
+  "bugs": {
+    "url": "https://github.com/venkatraj-web/namaste-reactjs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venkatraj-web/namaste-reactjs.git"
+  },
+  "license": "ISC",
+  "author": "venkatraj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "targets": {
+    "main": false
+  }
+}
